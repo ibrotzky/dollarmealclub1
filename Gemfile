@@ -42,3 +42,5 @@ gem 'rails_config'
 gem 'rails_12factor'
 
 gem 'devise'
+
+gem 'bootstrap-sass'
